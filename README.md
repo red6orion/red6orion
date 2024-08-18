@@ -7,4 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
-follow me
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](t.me/red6orion)

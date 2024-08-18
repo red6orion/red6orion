@@ -16,4 +16,5 @@
 
 ### Project
 
-[!]
+![project1](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
+![project2](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf)

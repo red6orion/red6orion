@@ -16,5 +16,6 @@
 
 ### Project
 
-![project1](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
-![project2](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf)
+[![CodeDungeons](https://img.shields.io/badge/-CodeDungeons-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
+[![IP_best](https://img.shields.io/badge/-IP_best-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf)
+

@@ -14,9 +14,6 @@
   
 - ML (1 месяц)
   - Классификация болезней клубники с помощью методов машинного обучения
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### Языки и инструменты
 ![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=Pycharm&logoColor=9ACD32)
@@ -30,6 +27,8 @@
 ### Проекты
 [![CodeDungeons](https://img.shields.io/badge/-CodeDungeons-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
 [![IP_best](https://img.shields.io/badge/-IP_best-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf)
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 ## CodeDungeons
 

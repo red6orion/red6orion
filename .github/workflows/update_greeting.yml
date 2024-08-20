@@ -2,7 +2,7 @@ name: Update Greeting
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Запускать каждые 6 часов
+    - cron: '0 * * * *'  # Запускать каждые 1 часов
 
 jobs:
   update-greeting:

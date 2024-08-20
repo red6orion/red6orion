@@ -22,7 +22,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
 
 ### Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](t.me/red6orion)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)]((https://t.me/red6orion))
 
 ### Проекты
 [![CodeDungeons](https://img.shields.io/badge/-CodeDungeons-090909?style=for-the-badge&logo=file)]([https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)

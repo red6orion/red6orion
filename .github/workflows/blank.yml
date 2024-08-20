@@ -1,0 +1,60 @@
+name: Update Greeting
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Запускать каждые 6 часов
+
+jobs:
+  update-greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Update greeting
+      run: |
+        import datetime
+        import pytz
+        
+        def get_greeting():
+            moscow_tz = pytz.timezone('Europe/Moscow')
+            current_time = datetime.datetime.now(moscow_tz)
+            hour = current_time.hour
+            
+            if 5 <= hour < 12:
+                return "Доброе утро"
+            elif 12 <= hour < 18:
+                return "Добрый день"
+            elif 18 <= hour < 23:
+                return "Добрый вечер"
+            else:
+                return "Доброй ночи"
+        
+        greeting = get_greeting()
+        
+        with open('README.md', 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        new_content = content.replace(
+            'Добрый день! Я рад вас приветствовать',
+            f'{greeting}! Я рад вас приветствовать'
+        )
+        
+        with open('README.md', 'w', encoding='utf-8') as file:
+            file.write(new_content)
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update greeting"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

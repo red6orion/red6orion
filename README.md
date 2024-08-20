@@ -1,48 +1,5 @@
 ![Header](https://github.com/red6orion/red6orion/blob/main/assets/MOSHED-2024-8-18-13-6-43.gif)
 
-import time
-import sys
-import os
-from datetime import datetime
-
-def clear_console():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-def typewriter_effect(text, delay=0.05):
-    for char in text:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(delay)
-
-def fade_out_effect(text, delay=0.05):
-    for i in range(len(text), 0, -1):
-        sys.stdout.write('\r' + text[:i].ljust(len(text)))
-        sys.stdout.flush()
-        time.sleep(delay)
-
-def get_greeting():
-    current_hour = datetime.now().hour
-    if 5 <= current_hour < 12:
-        return "Доброго утра"
-    elif 12 <= current_hour < 18:
-        return "Доброго дня"
-    elif 18 <= current_hour < 23:
-        return "Доброго вечера"
-    else:
-        return "Доброй ночи"
-
-messages = [
-    "{greeting}! Я рад вас приветствовать на своём профиле GitHub!"]
-
-while True:
-    greeting = get_greeting()
-    for message in messages:
-        clear_console()
-        formatted_message = message.format(greeting=greeting)
-        typewriter_effect(formatted_message)
-        time.sleep(1)
-        fade_out_effect(formatted_message)
-        time.sleep(0.5)
 ## Меня зовут Алексей
 
 Привет! Я Алексей, 17-летний выпускник 10 класса из Санкт-Петербурга. Я увлечен программированием и машинным обучением, и стремлюсь развивать свои навыки в этих областях. Мой путь в программировании начался с изучения Python, и с тех пор я создал несколько интересных проектов, включая телеграм-бота и исследование в области машинного обучения.

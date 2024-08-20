@@ -7,7 +7,7 @@
 Я верю, что технологии могут изменить мир, и я стремлюсь внести свой вклад в это изменение. Моя цель — создавать инновационные решения, которые помогут людям и сделают их жизнь лучше.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red6orion&show_icons=true)](https://github.com/red6orion/github-readme-stats)
-![Codewars](https://github.r2v.ch/codewars?user=red6orion)
+![Codewars](https://github.r2v.ch/codewars?user=red6orion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
 
 ### Основные компетенции
 - Python (1 год)

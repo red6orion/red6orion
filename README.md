@@ -14,6 +14,9 @@
   
 - ML (1 месяц)
   - Классификация болезней клубники с помощью методов машинного обучения
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### Языки и инструменты
 ![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=Pycharm&logoColor=9ACD32)

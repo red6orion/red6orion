@@ -10,9 +10,10 @@
 ![Codewars](https://github.r2v.ch/codewars?user=red6orion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://[github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=red6orion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)" />
+      <img src="https://github.r2v.ch/codewars?user=red6orion" />
     </a>
 </p>
+
 ### Основные компетенции
 - Python (1 год)
   - Телеграм бота (pytelegrambotapi)

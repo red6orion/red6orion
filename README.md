@@ -25,7 +25,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](t.me/red6orion)
 
 ### Проекты
-[![CodeDungeons](https://img.shields.io/badge/-CodeDungeons-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
+[![CodeDungeons](https://img.shields.io/badge/-CodeDungeons-090909?style=for-the-badge&logo=file)]([https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf](https://github.com/Nizier193/dnd-aiarrow-llm))
 [![IP_best](https://img.shields.io/badge/-IP_best-090909?style=for-the-badge&logo=file)](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf)
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>

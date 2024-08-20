@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Запускать каждые 30 минут
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Run script
+      run: |
+        python your_script.py > README.md
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update README"
+        git push

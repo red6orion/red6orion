@@ -32,7 +32,6 @@
 
 ## CodeDungeons
 
-![CodeDungeons](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf)
 
 ### Готовы к приключению в Code Dungeons?
 

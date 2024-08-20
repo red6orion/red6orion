@@ -1,44 +1,27 @@
 import time
-import sys
-import os
 from datetime import datetime
-
-def clear_console():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-def typewriter_effect(text, delay=0.05):
-    for char in text:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(delay)
-
-def fade_out_effect(text, delay=0.05):
-    for i in range(len(text), 0, -1):
-        sys.stdout.write('\r' + text[:i].ljust(len(text)))
-        sys.stdout.flush()
-        time.sleep(delay)
 
 def get_greeting():
     current_hour = datetime.now().hour
     if 5 <= current_hour < 12:
-        return "Доброго утра"
+        return "Доброе утро"
     elif 12 <= current_hour < 18:
-        return "Доброго дня"
+        return "Добрый день"
     elif 18 <= current_hour < 23:
-        return "Доброго вечера"
+        return "Добрый вечер"
     else:
         return "Доброй ночи"
 
-messages = [
-    "{greeting}! Я рад вас приветствовать на своём профиле GitHub!"]
-
-while True:
+def generate_github_profile():
     greeting = get_greeting()
-    for message in messages:
-        clear_console()
-        formatted_message = message.format(greeting=greeting)
-        typewriter_effect(formatted_message)
-        time.sleep(1)
-        fade_out_effect(formatted_message)
-        time.sleep(0.5)
+    message = f"{greeting}! Я рад вас приветствовать на своём профиле GitHub!"
+    
+    animated_message = ""
+    for char in message:
+        animated_message += char
+        print(f"\033[1;32m{animated_message}\033[0m")
+        time.sleep(0.1)
+
+if __name__ == "__main__":
+    generate_github_profile()
 

@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red6orion&show_icons=true)](https://github.com/red6orion/github-readme-stats)
 
-![Anurag's Codewars](https://github.r2v.ch/codewars?user=red6orion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
+!['s Codewars](https://github.r2v.ch/codewars?username=red6orion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
 
 
 ### Основные компетенции

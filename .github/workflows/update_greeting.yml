@@ -26,11 +26,11 @@ jobs:
             hour = current_time.hour
             
             if 5 <= hour < 12:
-                return "Доброе утро"
+                return "Доброго утра"
             elif 12 <= hour < 18:
-                return "Добрый день"
+                return "Доброго дня"
             elif 18 <= hour < 23:
-                return "Добрый вечер"
+                return "Доброго вечера"
             else:
                 return "Доброй ночи"
         
@@ -40,7 +40,7 @@ jobs:
             content = file.read()
         
         new_content = content.replace(
-            'Добрый день!',
+            'Доброго дня!',
             f'{greeting}!'
         )
         

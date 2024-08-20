@@ -40,8 +40,8 @@ jobs:
             content = file.read()
         
         new_content = content.replace(
-            'Добрый день! Я рад вас приветствовать',
-            f'{greeting}! Я рад вас приветствовать'
+            'Добрый день!',
+            f'{greeting}!'
         )
         
         with open('README.md', 'w', encoding='utf-8') as file:

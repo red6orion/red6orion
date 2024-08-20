@@ -1,7 +1,7 @@
 ![Header](https://github.com/red6orion/red6orion/blob/main/assets/MOSHED-2024-8-18-13-6-43.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=100&color=FFFFFF&background=FFFFFF00&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&width=445&height=60&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F!+%D0%AF+%D1%80%D0%B0%D0%B4+%D0%B2%D0%B0%D1%81+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;%D0%BD%D0%B0+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5+GitHub!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines={message})](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines={messages})](https://git.io/typing-svg)
 ## Меня зовут Алексей
 
 Привет! Я Алексей, 17-летний выпускник 10 класса из Санкт-Петербурга. Я увлечен программированием и машинным обучением, и стремлюсь развивать свои навыки в этих областях. Мой путь в программировании начался с изучения Python, и с тех пор я создал несколько интересных проектов, включая телеграм-бота и исследование в области машинного обучения.

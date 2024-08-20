@@ -6,6 +6,8 @@
 
 Я верю, что технологии могут изменить мир, и я стремлюсь внести свой вклад в это изменение. Моя цель — создавать инновационные решения, которые помогут людям и сделают их жизнь лучше.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=red6orion)](https://github.com/red6orion/github-readme-stats)
+
 ### Основные компетенции
 - Python (1 год)
   - Телеграм бота (pytelegrambotapi)

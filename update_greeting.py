@@ -35,7 +35,7 @@ def main():
     update_readme(greeting)
 
     # Обновляем README на GitHub
-    g = Github(os.environ['PAT'])
+    g = Github(os.environ['GITHUB_TOKEN'])
     repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
     
     with open('README.md', 'r', encoding='utf-8') as file:

@@ -1,2 +1,2 @@
-pytz
-PyGithub
+pip3 install pytz
+pip3 install PyGithub

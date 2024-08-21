@@ -34,12 +34,8 @@ def main():
     greeting = get_greeting()
     update_readme(greeting)
 
-    if 'GITHUB_TOKEN' not in os.environ:
-        print("Ошибка: GITHUB_TOKEN не найден в переменных окружения")
-        return
-
     # Обновляем README на GitHub
-    g = Github(os.environ['GITHUB_TOKEN'])
+    g = Github(os.environ['PAT'])
     repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
     
     with open('README.md', 'r', encoding='utf-8') as file:

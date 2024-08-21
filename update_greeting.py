@@ -28,13 +28,11 @@ def update_readme(greeting):
     with open('README.md', 'w', encoding='utf-8') as file:
         file.write(new_content)
     
-    return new_content  # Возвращаем новое содержимое
+    return new_content
 
 def main():
     greeting = get_greeting()
     update_readme(greeting)
-
-    print(f"Token: {os.environ['GITHUB_TOKEN'][:4]}...{os.environ['GITHUB_TOKEN'][-4:]}")
 
     # Обновляем README на GitHub
     g = Github(os.environ['GITHUB_TOKEN'])

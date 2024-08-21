@@ -1,5 +1,5 @@
 import datetime
-import pytz-2024.1.tar.gz
+import pytz
 import re
 import os
 from github import Github

@@ -34,6 +34,8 @@ def main():
     greeting = get_greeting()
     update_readme(greeting)
 
+    print(f"Token: {os.environ['GITHUB_TOKEN'][:4]}...{os.environ['GITHUB_TOKEN'][-4:]}")
+
     # Обновляем README на GitHub
     g = Github(os.environ['GITHUB_TOKEN'])
     repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])

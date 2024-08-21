@@ -2,39 +2,30 @@ name: Update Greeting
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Запускается каждые 6 часов
-  workflow_dispatch:  # Позволяет запускать вручную
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-greeting:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-           python -m pip install --upgrade pip
-           pip install -r requirements.txt
-          
-      - name: Update README
-        run: |
-          python update_greeting.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update greeting"
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Update greeting
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+      run: python update_greeting.py
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update greeting" || echo "No changes to commit"
+        git push

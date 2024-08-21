@@ -9,7 +9,7 @@ def get_greeting():
     current_time = datetime.datetime.now(moscow_tz)
     hour = current_time.hour
 
-    if 6 <= hour < 12:
+    if 5 <= hour < 12:
         return "Доброе утро"
     elif 12 <= hour < 18:
         return "Добрый день"

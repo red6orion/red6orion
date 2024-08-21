@@ -20,7 +20,7 @@ jobs:
         pip install -r requirements.txt
     - name: Update greeting
       env:
-        GITHUB_TOKEN: ${{ secret.ghp_**tJJl50rWqweU32g6caKlPRXBPz7Olo07wHT2** }}
+        GITHUB_TOKEN: ${{ secret.PAT }}
       run: python update_greeting.py
     - name: Commit changes
       run: |

@@ -32,14 +32,18 @@ def update_readme(greeting):
 
 def main():
     greeting = get_greeting()
-    new_content = update_readme(greeting)  # Сохраняем результат
+    update_readme(greeting)
 
     # Обновляем README на GitHub
     g = Github(os.environ['GITHUB_TOKEN'])
     repo = g.get_repo(os.environ['GITHUB_REPOSITORY'])
+    
+    with open('README.md', 'r', encoding='utf-8') as file:
+        content = file.read()
+    
     contents = repo.get_contents("README.md")
     repo.update_file(contents.path, f"Update greeting to {greeting}", 
-                     new_content, contents.sha)
+                     content, contents.sha, branch="main")
 
 if __name__ == "__main__":
     main()

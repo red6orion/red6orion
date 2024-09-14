@@ -20,7 +20,7 @@ jobs:
         pip install -r requirements.txt
     - name: Update greeting
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.TAP }}
       run: python update_greeting.py
     - name: Commit changes
       run: |

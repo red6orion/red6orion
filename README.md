@@ -1,6 +1,6 @@
 ![Header](https://github.com/red6orion/red6orion/blob/main/assets/MOSHED-2024-8-18-13-6-43.gif)
 
-Добрый день! Я рад вас приветствовать на своём профиле Github
+Добрый вечер! Я рад вас приветствовать на своём профиле Github
 
 ## Меня зовут Алексей
 

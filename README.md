@@ -8,41 +8,45 @@
 
 Я верю, что технологии могут изменить мир, и я стремлюсь внести свой вклад в это изменение. Моя цель — создавать инновационные решения, которые помогут людям и сделают их жизнь лучше.
 
-![Snake animation](https://github.com/red6orion/red6orion/blob/output/github-contribution-grid-snake-dark.svg)
-
 !['s Codewars](https://github.r2v.ch/codewars?user=redborion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Технический стек
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <b>Основные технологии</b>
-      <br>
+      <br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
       <br>Python 3.x
-      <br>
+      <br><br>
       <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="30" height="30"/>
       <br>PyCharm
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <b>Machine Learning</b>
-      <br>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" height="30"/> TensorFlow
-      <br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/> Scikit-learn
+      <br><br>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" height="30"/>
+      <br>TensorFlow
+      <br><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/>
+      <br>Scikit-learn
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <b>Data Analysis</b>
-      <br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="30" height="30"/> Pandas
-      <br>
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30" height="30"/> NumPy
+      <br><br>
+      <div style="margin-bottom: 20px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="30" height="30"/>
+        <br>Pandas
+      </div>
+      <br><br>
+      <div>
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30" height="30"/>
+        <br>NumPy
+      </div>
     </td>
   </tr>
 </table>
-
-![Snake animation](https://github.com/red6orion/red6orion/blob/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |
@@ -75,15 +79,6 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/red6orion/red6orion/blob/output/github-contribution-grid-snake-dark.svg)
-
-### 📊 Статистика
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=red6orion&theme=radical&row=1&column=6" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=red6orion&theme=radical)](https://git.io/streak-stats)
-
 ### 📫 Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](https://t.me/red6orion)
 
@@ -91,4 +86,4 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![Snake animation](https://github.com/red6orion/red6orion/blob/output/github-contribution-grid-snake.svg)
+[![wakatime](https://wakatime.com/badge/user/red6orion.svg)](https://wakatime.com/@red6orion)

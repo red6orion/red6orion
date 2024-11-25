@@ -86,6 +86,4 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/red6orion.svg)](https://wakatime.com/@red6orion)
+[[![wakatime](https://wakatime.com/badge/user/red6orion.svg)](https://wakatime.com/@red6orion)](https://github.com/red6orion)

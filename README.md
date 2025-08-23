@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D9227&width=435&lines=red6orion" alt="Typing SVG" /></a>
 
 ### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |

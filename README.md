@@ -1,52 +1,16 @@
-![Header](https://github.com/red6orion/red6orion/blob/main/assets/MOSHED-2024-8-18-13-6-43.gif)
-
-Добрый вечер! Я рад вас приветствовать на своём профиле Github
-
-## Меня зовут Алексей <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-Привет! Я Алексей, 18-летний выпускник 11 класса из Санкт-Петербурга. Я увлечен программированием и машинным обучением, и стремлюсь развивать свои навыки в этих областях. Мой путь в программировании начался с изучения Python, и с тех пор я создал несколько интересных проектов, включая телеграм-бота и исследование в области машинного обучения.
-
-Я верю, что технологии могут изменить мир, и я стремлюсь внести свой вклад в это изменение. Моя цель — создавать инновационные решения, которые помогут людям и сделают их жизнь лучше.
-
-!['s Codewars](https://github.r2v.ch/codewars?user=redborion&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true)
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Технический стек
-
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <b>Основные технологии</b>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-      <br>Python 3.x
-      <br><br>
-      <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="30" height="30"/>
-      <br>PyCharm
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>Machine Learning</b>
-      <br><br>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" height="30"/>
-      <br>TensorFlow
-      <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>Data Analysis</b>
-      <br><br>
-      <div style="margin-bottom: 20px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="30" height="30"/>
-        <br>Pandas
-      </div>
-      <br><br>
-      <div>
-        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30" height="30"/>
-        <br>NumPy
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/red6orion/red6orion/blob/main/assets/MOSHED-2024-8-18-13-6-43.gif" width="100%" />
+  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Привет+всем!;Я+Алексей,+студент+и+программист" width="70%" />
+  <br><br>
+  <pre>
+    🎓 Студент • Python Developer • Machine Learning Enthusiast
+    💻 Увлечения: Программирование, Машинное обучение, Игры
+    🌍 Стремлюсь создавать инновационные решения для улучшения жизни людей
+  </pre>
+  <br><br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 ### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |

@@ -4,6 +4,15 @@
 <p align="center">
 <img src="svg/marquee.svg">
 
+---
+
+🧑‍💻 **About Me**
+
+My name is Alexey, and I am a student at St. Petersburg State University.
+
+---
+
+
 ### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |
 |-------|---------|---------|--------|

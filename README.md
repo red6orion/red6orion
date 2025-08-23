@@ -5,7 +5,7 @@
 <img src="svg/marquee.svg">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0D9227&background=F7FEFF00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=My+name+is+Alexey;I+am+a+student+at+SPbU" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=07801F&background=F7FEFF00&center=true&vCenter=true&width=500&lines=My+name+is+Alexey;I+am+a+student+at;St.+Petersburg+State+University" alt="Typing SVG" /></a>
 
 
 

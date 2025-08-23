@@ -4,13 +4,9 @@
 <p align="center">
 <img src="svg/marquee.svg">
 
----
 
-🧑‍💻 **About Me**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D9227&background=F7FEFF00&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=My+name+is+Alexey%2C+and+I+am+a+student+at+St.+Petersburg+State+University.)](https://git.io/typing-svg)
 
-My name is Alexey, and I am a student at St. Petersburg State University.
-
----
 
 
 ### 🏆 Личные достижения

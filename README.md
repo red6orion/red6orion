@@ -8,7 +8,7 @@
     🌍 Стремлюсь создавать инновационные решения для улучшения жизни людей
   </pre>
   <br><br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
 ### 🏆 Личные достижения

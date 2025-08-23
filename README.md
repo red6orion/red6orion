@@ -1,15 +1,33 @@
-<div align="center">
-  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Привет+всем!;Я+Алексей,+студент+и+программист" width="70%" />
-  <br><br>
-  <pre>
-    🎓 Студент • Python Developer • Machine Learning Enthusiast
-    💻 Увлечения: Программирование, Машинное обучение, Игры
-    🌍 Стремлюсь создавать инновационные решения для улучшения жизни людей
-  </pre>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</div>
+<table>
+  <tr>
+    <td rowspan="3" align="center" valign="middle" style="padding: 8px 16px;">
+      <img src="https://avatars.githubusercontent.com/u/136831110?v=4" width="64" style="border-radius:50%;border:2px solid #22c55e;"/>
+    </td>
+    <td style="padding-left: 8px;">
+      <span style="font-size:1.3em;"><b>Алексей</b></span>
+      <a href="https://t.me/red6orion">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-left: 8px;">
+      🎓 Студент • Python Developer<br>
+      🤖 Увлечен машинным обучением<br>
+      🏆 ��частник и призер хакатонов<br>
+      🌍 Стремлюсь создавать инновационные решения
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-left: 8px;">
+      <a href="https://wakatime.com/@ddb6b3a6-9a66-4762-899b-714686fb5a08">
+        <img src="https://wakatime.com/badge/user/ddb6b3a6-9a66-4762-899b-714686fb5a08.svg"/>
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |

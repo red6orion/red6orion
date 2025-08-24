@@ -11,17 +11,20 @@
 
 
 ### 🏆 Личные достижения
-| Место | Ком��нда | Событие | Ссылка |
+<div style="background-color: #1e1e1e; color: #79A500; padding: 20px; border-radius: 10px; font-family: 'Courier New', Courier, monospace;">
+| Место | Команда | Событие | Ссылка |
 |-------|---------|---------|--------|
 | 🥇 1 место | Xi team | Хакатон CodeDungeons 2023 | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf) |
 |🥈 2 место | AGI-Team | Цифровой Прорыв Международный | [Награждение](https://rutube.ru/video/fde89ac7668286d9186d96ea489590f1/) |
 | 🏆 Высший балл | Совместно с [Nizier193](https://github.com/Nizier193) | Проектная деятельность | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf) |
+</div>
 
 ### 🚀 Проекты
+<div style="background-color: #1e1e1e; color: #79A500; padding: 20px; border-radius: 10px; font-family: 'Courier New', Courier, monospace;">
 <table>
   <tr>
-    <td align="center" style="background-color: #1e1e1e; color: #79A500; padding: 10px; border-radius: 5px;">
-      <h3>CodeDungeons</h3>
+    <td align="center" style="padding: 10px;">
+      <h3 style="color: #79A500;">CodeDungeons</h3>
       <p>Игровой проект с элементами RPG и стратегии</p>
       <ul>
         <li>Docker-контейнеризация</li>
@@ -29,8 +32,8 @@
         <li>API интеграция</li>
       </ul>
     </td>
-    <td align="center" style="background-color: #1e1e1e; color: #79A500; padding: 10px; border-radius: 5px;">
-      <h3>ML Классификация</h3>
+    <td align="center" style="padding: 10px;">
+      <h3 style="color: #79A500;">ML Классификация</h3>
       <p>Определение болезней клубники</p>
       <ul>
         <li>UNet архитектура</li>
@@ -40,6 +43,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### 📫 Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](https://t.me/red6orion)

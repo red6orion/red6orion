@@ -41,10 +41,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
-## 🐍 Активность
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src=<img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg?v=3" alt="Snake animation" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
@@ -64,9 +62,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=red6orion&color=FF0033&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 📫 Связаться со мной
 

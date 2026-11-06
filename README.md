@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/red6orion/red6orion/main/svg/marquee.svg?v=2" alt="Thank you for visiting">
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 🏆 Личные достижения
 
@@ -20,7 +20,7 @@
 | 🥈 **2 место** | **AGI-Team** | Цифровой Прорыв Международный | [Награждение](https://rutube.ru/video/fde89ac7668286d9186d96ea489590f1/) |
 | 🏆 **Высший балл** | Совместно с [Nizier193](https://github.com/Nizier193) | Проектная деятельность | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 🚀 Проекты
 
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 🐍 Активность
 
@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 📊 Статистика
 
@@ -62,7 +62,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 ## 📫 Связаться со мной
 

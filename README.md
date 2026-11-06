@@ -1,51 +1,71 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=230&section=header&text=RED6ORION&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Hackathon%20Winner%20%7C%20ML%20%7C%20Backend&descSize=20&descAlignY=60" width="100%" />
 
 <p align="center">
-<img src="svg/marquee.svg">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=750&lines=My+name+is+Alexey;I+don't+join+hackathons.+I+win+them.;Student+at+St.Petersburg;State+University+of+Telecommunications" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=07801F&background=F7FEFF00&center=true&vCenter=true&width=500&lines=My+name+is+Alexey;I+am+a+student+at;St.Petersburg;State+University+of+Telecommunications" alt="Typing SVG" /></a>
-</p>  
+  <img src="svg/marquee.svg">
+</p>
 
+---
 
+## 🏆 Личные достижения
 
-### 🏆 Личные достижения
 | Место | Команда | Событие | Ссылка |
-|-------|---------|---------|--------|
-| 🥇 1 место | Xi team | Хакатон CodeDungeons 2023 | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf) |
-|🥈 2 место | AGI-Team | Цифровой Прорыв Международный | [Награждение](https://rutube.ru/video/fde89ac7668286d9186d96ea489590f1/) |
-| 🏆 Высший балл | Совместно с [Nizier193](https://github.com/Nizier193) | Проектная деятельность | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf) |
+|:-----:|:-------:|:--------|:------:|
+| 🥇 **1 место** | **Xi team** | Хакатон CodeDungeons 2023 | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/CodeDungeons_Xi_team.pdf) |
+| 🥈 **2 место** | **AGI-Team** | Цифровой Прорыв Международный | [Награждение](https://rutube.ru/video/fde89ac7668286d9186d96ea489590f1/) |
+| 🏆 **Высший балл** | Совместно с [Nizier193](https://github.com/Nizier193) | Проектная деятельность | [Подробнее](https://github.com/red6orion/red6orion/blob/main/assets/IP_best.pdf) |
 
-### 🚀 Проекты
+---
+
+## 🚀 Проекты
+
 <table>
   <tr>
-    <td align="center" style="background-color: #1e1e1e; color: #79A500; padding: 10px; border-radius: 5px;">
-      <h3>CodeDungeons</h3>
-      <p>Игровой проект с элементами RPG и стратегии</p>
-      <ul>
-        <li>Docker-контейнеризация</li>
-        <li>Веб-интерфейс</li>
-        <li>API интеграция</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>⚔️ CodeDungeons</h3>
+      <p><b>Игровой проект с элементами RPG и стратегии</b></p>
+      <p>🐳 Docker-контейнеризация<br>🌐 Веб-интерфейс<br>🔌 API интеграция</p>
     </td>
-    <td align="center" style="background-color: #1e1e1e; color: #79A500; padding: 10px; border-radius: 5px;">
-      <h3>ML Классификация</h3>
-      <p>Определение болезней клубники</p>
-      <ul>
-        <li>UNet архитектура</li>
-        <li>ResNet-18</li>
-        <li>Computer Vision</li>
-      </ul>
+    <td align="center" width="50%">
+      <h3>🍓 ML Классификация</h3>
+      <p><b>Определение болезней клубники</b></p>
+      <p>🧠 UNet архитектура<br>📐 ResNet-18<br>👁 Computer Vision</p>
     </td>
   </tr>
 </table>
 
-### 📫 Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=B4O68E)](https://t.me/red6orion)
+---
+
+## 📊 Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=red6orion&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=FF0033" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=red6orion&theme=radical&hide_border=true&background=0D1117&ring=FF0033&fire=FF0033&currStreakLabel=FF0033" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@ddb6b3a6-9a66-4762-899b-714686fb5a08">
+    <img src="https://wakatime.com/badge/user/ddb6b3a6-9a66-4762-899b-714686fb5a08.svg" />
+  </a>
+</p>
+
+---
+
+## 📫 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/red6orion">
+    <img src="https://img.shields.io/badge/Telegram-FF0033?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/ddb6b3a6-9a66-4762-899b-714686fb5a08.svg)](https://wakatime.com/@ddb6b3a6-9a66-4762-899b-714686fb5a08)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:000000&height=120&section=footer" width="100%" />

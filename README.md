@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=230&section=header&text=RED6ORION&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Hackathon%20Winner%20%7C%20ML%20%7C%20Backend&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=230&section=header&text=RED6ORION&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Hackathon%20Champion&descAlignY=60" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=750&lines=My+name+is+Alexey;I+don't+join+hackathons.+I+win+them.;Student+at+St.Petersburg;State+University+of+Telecommunications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=750&lines=My+name+is+Alexey;ML+%26+Backend+developer;Student+at+St.Petersburg;State+University+of+Telecommunications" alt="Typing SVG" />
   </a>
 </p>
 

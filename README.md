@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="svg/marquee.svg">
+  <img src="https://raw.githubusercontent.com/red6orion/red6orion/main/svg/marquee.svg?v=2" alt="Thank you for visiting">
 </p>
 
 ---

@@ -41,6 +41,14 @@
 
 ---
 
+## 🐍 Активность
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 📊 Статистика
 
 <p align="center">

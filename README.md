@@ -12,10 +12,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=red6orion&color=FF0033&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
-
 ## 🏆 Личные достижения
 
 | Место | Команда | Событие | Ссылка |
@@ -65,6 +61,10 @@
     <img src="https://wakatime.com/badge/user/ddb6b3a6-9a66-4762-899b-714686fb5a08.svg" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=red6orion&color=FF0033&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 

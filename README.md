@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=230&section=header&text=RED6ORION&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Hackathon%20Champion&descAlignY=60" width="100%" />
+<img src="https://raw.githubusercontent.com/red6orion/red6orion/main/svg/header.svg?v=1" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">

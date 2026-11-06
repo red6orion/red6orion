@@ -42,7 +42,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
 <p align="center">
-  <img src=<img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg?v=3" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/red6orion/red6orion/output/github-snake-dark.svg?v=3" alt="Snake animation" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />

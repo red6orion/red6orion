@@ -12,6 +12,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
 
+<img src="https://komarev.com/ghpvc/?username=red6orion&color=FF0033&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=3" width="100%" />
+
 ## 🏆 Личные достижения
 
 | Место | Команда | Событие | Ссылка |
